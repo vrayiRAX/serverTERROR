@@ -1,64 +1,99 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.16.3): 1758833158085 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.16.3): 1758833390118 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 job-inventory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1758833161173 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1758833393283 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 job-inventory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1758833164279 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1758833396419 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 job-inventory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1758833167387 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1758833399524 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 job-inventory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1758833170500 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1758833402634 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 job-inventory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1758833173608 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1758833405723 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 job-inventory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1758833176707 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1758833408826 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 job-inventory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1758833179795 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1758833411926 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 job-inventory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1758833182914 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1758833415028 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 job-inventory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1758833186004 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1758833418127 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 job-inventory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1758833189102 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1758833421219 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 job-inventory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1758833192198 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1758833424308 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 job-inventory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1758833195307 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1758833427394 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+job-inventory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1758833430532 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+job-inventory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1758833433670 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+job-inventory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1758833436783 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+job-inventory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1758833439875 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+job-inventory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1758833442994 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+job-inventory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1758833446095 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+job-inventory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1758833449186 tunnel running, 1 tunnels registered
 
 
 TUNNELS
